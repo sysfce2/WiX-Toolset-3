@@ -1,4 +1,9 @@
-# WiX Toolset on GitHub
+# WiX v3 is out of community support
+
+See https://www.firegiant.com/wixtoolset/ for the latest information about the WiX Toolset.
+
+
+### WiX Toolset on GitHub
 The WiX Toolset builds Windows installation packages from XML source code. The toolset supports a command-line environment that developers may integrate into their build processes to build Windows Installer (MSI) packages and executable bundles. The WiX GitHub project hosts the WiX source code Git repositories. The following links will take you to more details:
 
 ## [Home page](https://wixtoolset.org/ "WiX Toolset home page")
